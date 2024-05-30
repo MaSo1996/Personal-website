@@ -1,0 +1,21 @@
+.personal-photo {
+  border-radius: 50%;
+}
+
+.introduction {
+  color: white;
+  font-weight: bolder;
+}
+
+.gradient-background {
+  background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(168,65,208,0.5047152650122548) 50%, rgba(0,212,255,1) 100%);
+}
+
+.contact-me {
+  background-color: rgba(168,65,208);
+}
+
+.contact-me:hover {
+  background-color: white;
+  color: black;
+}
